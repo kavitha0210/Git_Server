@@ -1,0 +1,7 @@
+Filtering by resource attributes
+You can filter resources by a specific attribute or tag. For example to display only instances that are in the stopped state
+
+In the Search field, enter Instance State and select the attribute from the list that appears.
+
+Select Instance state: stopped from the list of possible values.
+This method is achieved using either API filtering or client filtering, depending on the selected resource attribute.
